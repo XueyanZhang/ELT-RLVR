@@ -13,9 +13,35 @@ import pytest
 REPO_ROOT = Path(__file__).resolve().parents[1]
 OFFICIAL_EVAL_DIR = REPO_ROOT / "third_party/ELT-Bench/evaluation"
 FIXTURE_GT_DIR = Path(__file__).resolve().parent / "fixtures/gt_snowflake"
+SOURCE_DATA_DIR = REPO_ROOT / "data/source"
+
+FETCH_COMMAND = "python scripts/fetch_source_data.py --max-rows 10000"
 
 if str(OFFICIAL_EVAL_DIR) not in sys.path:
     sys.path.insert(0, str(OFFICIAL_EVAL_DIR))
+
+
+def pytest_configure(config):
+    config.addinivalue_line(
+        "markers",
+        "needs_benchmark_data: requires the benchmark data fetched under data/",
+    )
+
+
+def pytest_collection_modifyitems(config, items):
+    """Skip the data-dependent tests cleanly when the data has not been fetched.
+
+    `data/` is deliberately not in the repository - it is several gigabytes and
+    is pulled on demand. Without this hook a fresh clone reports a pile of
+    FileNotFoundError instead of naming the command to run, which is the first
+    thing anyone checking this project out would hit.
+    """
+    if SOURCE_DATA_DIR.is_dir():
+        return
+    skip = pytest.mark.skip(reason=f"benchmark data not fetched - run: {FETCH_COMMAND}")
+    for item in items:
+        if item.get_closest_marker("needs_benchmark_data"):
+            item.add_marker(skip)
 
 
 @pytest.fixture(scope="session")

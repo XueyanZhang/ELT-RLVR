@@ -62,6 +62,7 @@ def test_an_unknown_task_says_so_plainly():
         load_task("not_a_task")
 
 
+@pytest.mark.needs_benchmark_data
 def test_only_tasks_whose_source_data_is_present_are_offered():
     tasks = available_tasks()
 
@@ -70,6 +71,7 @@ def test_only_tasks_whose_source_data_is_present_are_offered():
     assert len(tasks) > 20
 
 
+@pytest.mark.needs_benchmark_data
 def test_every_available_task_loads_and_is_internally_consistent():
     for name in available_tasks():
         task = load_task(name)

@@ -38,6 +38,10 @@ export TINKER_API_KEY=...
 real ground-truth columns, alignment over all 73 fixture tables, the reward under
 every synthetic submission, and the tools against a live DuckDB.
 
+Eight of them read the benchmark data fetched in *Setup*. Without that step they
+skip with a message naming the command, so a bare clone reports
+`121 passed, 8 skipped` rather than failing.
+
 ### 2. A rollout on an official ELT-Bench task
 
 ```bash

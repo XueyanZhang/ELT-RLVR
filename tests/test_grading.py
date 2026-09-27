@@ -17,6 +17,9 @@ from elt_rlvr.task import load_task
 
 TASK = "cs_semester"
 
+# Every test here reads the benchmark's ground truth from `data/`.
+pytestmark = pytest.mark.needs_benchmark_data
+
 # A correct submission for one of the three models. Two subtleties decide it:
 # a failing grade is recorded as NULL rather than "F", and "the highest
 # satisfaction score for the course" is that course's own maximum, not the
