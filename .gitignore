@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# 本地参考副本,不进仓库(正式依赖走 pyproject)
+/tinker-cookbook/
+# 数据由 scripts/setup_data.sh 拉取
+/data/
+/.cache/
+
+# Working material, not part of the deliverable
+CLAUDE.md
+/assets/
+/docs/design-concise.zh.md
+.pytest_cache/

@@ -1,0 +1,92 @@
+CUSTOMERID,CUSTOMERNAME,COUNTRY,NUM_ORDERS,AVG_COST_OF_ORDERS,TOP_SHIPPER,TOTAL_QUANTITY_OF_PRODUCTS,HAS_BOUGHT_PRODUCT_FROM_FRANCE
+31.0,Gourmet Lanchonetes,Brazil,1,1275.0,Federal Shipping,34,1
+71.0,Save-a-lot Markets,USA,4,5625.014999999999,Federal Shipping,775,1
+14.0,Chop-suey Chinese,Switzerland,2,1124.5,United Package,122,0
+80.0,Tortuga Restaurante,Mexico,4,1067.35,Federal Shipping,152,1
+58.0,Pericles Comidas clásicas,Mexico,2,425.58000000000004,Federal Shipping,36,0
+69.0,Romero y tomillo,Spain,3,308.8966666666667,Speedy Express,44,0
+13.0,Centro comercial Moctezuma,Mexico,1,126.0,Federal Shipping,11,0
+39.0,Königlich Essen,Germany,2,1039.375,Federal Shipping,84,1
+8.0,Bólido Comidas preparadas,Spain,1,1227.5,United Package,90,0
+21.0,Familia Arquibaldo,Brazil,3,552.7333333333332,Federal Shipping,163,1
+63.0,QUICK-Stop,Germany,7,2596.9714285714285,United Package,839,1
+7.0,Blondel père et fils,France,4,3813.4375,United Package,367,1
+89.0,White Clover Markets,USA,2,2208.0,Speedy Express,185,0
+48.0,Lonesome Pine Restaurant,USA,2,445.25,Speedy Express,33,0
+47.0,LINO-Delicateses,Venezuela,1,500.0,Speedy Express,50,0
+35.0,HILARIÓN-Abastos,Venezuela,2,2160.25,Federal Shipping,152,1
+44.0,Lehmanns Marktstand,Germany,3,1461.4833333333333,Speedy Express,145,1
+16.0,Consolidated Holdings,UK,1,790.0,United Package,32,0
+85.0,Vins et alcools Chevalier,France,2,412.79999999999995,Speedy Express,31,0
+77.0,The Big Cheese,USA,1,421.0,United Package,15,0
+81.0,Tradição Hipermercados,Brazil,2,1974.625,Speedy Express,69,0
+66.0,Reggiani Caseifici,Italy,3,341.73333333333335,Speedy Express,51,0
+70.0,Santé Gourmet,Norway,1,1323.6,United Package,48,1
+84.0,Victuailles en stock,France,2,510.25,Speedy Express,59,0
+18.0,Du monde entier,France,1,336.0,Federal Shipping,13,0
+11.0,B''s Beverages,UK,1,599.25,Federal Shipping,39,0
+4.0,Around the Horn,UK,2,861.875,Federal Shipping,105,0
+23.0,Folies gourmandes,France,1,2030.2,Speedy Express,51,0
+3.0,Antonio Moreno Taquería,Mexico,1,504.0,United Package,24,0
+19.0,Eastern Connection,UK,2,2508.545,Federal Shipping,121,0
+17.0,Drachenblut Delikatessend,Germany,2,333.5,Federal Shipping,62,0
+46.0,LILA-Supermercado,Venezuela,5,1471.736,Federal Shipping,276,1
+41.0,La maison d''Asie,France,5,965.35,United Package,187,0
+83.0,Vaffeljernet,Denmark,2,1625.925,Federal Shipping,215,0
+51.0,Mère Paillarde,Canada,5,4672.52,United Package,422,1
+20.0,Ernst Handel,Austria,10,3563.121,Speedy Express,1418,1
+27.0,Franchi S.p.A.,Italy,1,62.46,Speedy Express,2,0
+54.0,Océano Atlántico Ltda.,Argentina,1,399.0,Speedy Express,24,0
+9.0,Bon app'',France,3,1752.1166666666668,Speedy Express,181,0
+15.0,Comércio Mineiro,Brazil,1,2713.8500000000004,Speedy Express,60,0
+91.0,Wolski,Poland,1,573.75,Federal Shipping,45,1
+2.0,Ana Trujillo Emparedados y helados,Mexico,1,111.0,Federal Shipping,6,0
+33.0,GROSELLA-Restaurante,Venezuela,1,1377.1000000000001,Federal Shipping,14,0
+49.0,Magazzini Alimentari Riuniti,Italy,3,1080.3,Speedy Express,168,1
+79.0,Toms Spezialitäten,Germany,1,710.5,United Package,50,0
+87.0,Wartian Herkku,Finland,7,838.9285714285714,Federal Shipping,242,0
+30.0,Godos Cocina Típica,Spain,1,1555.0,United Package,85,0
+24.0,Folk och fä HB,Sweden,4,1078.475,Federal Shipping,230,1
+56.0,Ottilies Käseladen,Germany,1,1492.5,United Package,60,0
+59.0,Piccolo und mehr,Austria,3,5346.916666666667,Federal Shipping,147,1
+5.0,Berglunds snabbköp,Sweden,3,1802.3,Federal Shipping,169,1
+90.0,Wilman Kala,Finland,1,566.0,Federal Shipping,27,0
+36.0,Hungry Coyote Import Store,USA,3,368.0833333333333,Federal Shipping,67,0
+10.0,Bottom-Dollar Marketse,Canada,4,1990.9375,Federal Shipping,350,1
+38.0,Island Trading,UK,3,375.6666666666667,United Package,80,0
+52.0,Morgenstern Gesundkost,Germany,1,1503.6,Federal Shipping,32,0
+34.0,Hanari Carnes,Brazil,2,2036.625,United Package,162,1
+72.0,Seven Seas Imports,UK,3,2479.5666666666666,Federal Shipping,321,1
+29.0,Galería del gastrónomo,Spain,2,296.5,Speedy Express,22,0
+62.0,Queen Cozinha,Brazil,2,8940.3,Speedy Express,253,1
+68.0,Richter Supermarkt,Switzerland,2,2937.875,Federal Shipping,190,1
+67.0,Ricardo Adocicados,Brazil,2,798.0,Federal Shipping,110,0
+37.0,Hungry Owl All-Night Grocers,Ireland,6,2565.17,United Package,565,1
+76.0,Suprêmes délices,Belgium,2,4025.65,United Package,185,1
+88.0,Wellington Importadora,Brazil,2,1510.0,Speedy Express,77,0
+60.0,Princesa Isabel Vinhoss,Portugal,3,838.0,Federal Shipping,74,0
+25.0,Frankenversand,Germany,4,3346.08,Federal Shipping,553,1
+65.0,Rattlesnake Canyon Grocery,USA,7,2631.6314285714284,Federal Shipping,573,1
+61.0,Que Delícia,Brazil,4,1012.275,Speedy Express,189,0
+86.0,Die Wandernde Kuh,Germany,4,1210.475,United Package,190,0
+75.0,Split Rail Beer & Ale,USA,6,1852.3366666666668,United Package,224,1
+73.0,Simons bistro,Denmark,2,7309.5,Federal Shipping,140,1
+55.0,Old World Delicatessen,USA,4,2686.125,Federal Shipping,267,1
+28.0,Furia Bacalhau e Frutos do Mar,Portugal,2,828.0,Federal Shipping,89,1
+1.0,Alfreds Futterkiste,Germany,0,,,0,0
+43.0,Lazy K Kountry Store,USA,0,,,0,0
+45.0,Let''s Stop N Shop,USA,0,,,0,0
+32.0,Great Lakes Food Market,USA,0,,,0,0
+50.0,Maison Dewey,Belgium,0,,,0,0
+53.0,North/South,UK,0,,,0,0
+6.0,Blauer See Delikatessen,Germany,0,,,0,0
+42.0,Laughing Bacchus Wine Cellars,Canada,0,,,0,0
+82.0,Trail''s Head Gourmet Provisioners,USA,0,,,0,0
+26.0,France restauration,France,0,,,0,0
+74.0,Spécialités du monde,France,0,,,0,0
+40.0,La corne d''abondance,France,0,,,0,0
+12.0,Cactus Comidas para llevar,Argentina,0,,,0,0
+64.0,Rancho grande,Argentina,0,,,0,0
+78.0,The Cracker Box,USA,0,,,0,0
+22.0,FISSA Fabrica Inter. Salchichas S.A.,Spain,0,,,0,0
+57.0,Paris spécialités,France,0,,,0,0

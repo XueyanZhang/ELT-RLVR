@@ -1,0 +1,21 @@
+DATE_DAY,APP_ID,APP_NAME,SOURCE_TYPE,APP_VERSION,CRASHES,ACTIVE_DEVICES,ACTIVE_DEVICES_LAST_30_DAYS,DELETIONS,INSTALLATIONS,SESSIONS
+2021-03-26,12345,Super Cool Name,App Store Browse,1.0.0 (iOS),0,0,0,0,0,0
+2021-04-12,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-01-22,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-06-19,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2020-12-21,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-06-08,12345,Super Cool Name,Unavailable,1.0.0 (iOS),0,0,0,0,0,0
+2021-10-20,12345,Super Cool Name,Institutional Purchase,1.0.0 (iOS),0,0,0,0,0,0
+2020-12-05,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-07-10,12345,Super Cool Name,App Store Search,1.0.0 (iOS),0,0,0,0,0,0
+2021-08-08,12345,Super Cool Name,App Store Browse,1.0.0 (iOS),0,0,0,0,0,0
+2021-09-25,12345,Super Cool Name,Unavailable,1.0.0 (iOS),0,0,0,0,0,0
+2021-04-01,12345,Super Cool Name,Institutional Purchase,1.0.0 (iOS),0,0,0,0,0,0
+2020-11-15,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-06-18,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-07-05,12345,Super Cool Name,App Referrer,1.0.0 (iOS),0,0,0,0,0,0
+2021-05-02,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-03-20,12345,Super Cool Name,Unavailable,1.0.0 (iOS),0,0,1,0,0,0
+2020-11-03,12345,Super Cool Name,App Store Search,1.0.0 (iOS),0,0,0,0,0,0
+2021-01-07,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
+2021-07-30,12345,Super Cool Name,,1.0.0 (iOS),0,0,0,0,0,0
